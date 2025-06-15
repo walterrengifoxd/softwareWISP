@@ -1,4 +1,4 @@
-## 🎉 ¡Bienvenido a **APP WhatsApp Base 1.2**! 🚀
+## 🎉 ¡Bienvenido a **CONECTATE WISP SOFTWARE 1.5**! 🚀
 
 ¡Gracias por confiar en **APP WhatsApp**!  
 Estás utilizando la **versión Base 1.2** de nuestra plataforma. 🎯
