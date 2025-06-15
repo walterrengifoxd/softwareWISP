@@ -22,7 +22,44 @@ Nuestro **Sistema de Administración de Clientes WISP e ISP** te permite gestion
 - 📋 **Panel de control amigable**: Fácil de usar, responsivo y adaptado a escritorio o móvil.
 - 📈 **Dashboard estadístico**: Mide rendimiento de clientes activos, pagos, ingresos y más.
 
-Estas herramientas están diseñadas para facilitar la administración de tu empresa, mejorar el rendimiento y optimizar la experiencia del cliente. 🚀
+---
+
+## 🧪 TUTORIALES Y USO DEL SISTEMA
+
+Aprende a dominar tu sistema con nuestros tutoriales disponibles:
+
+### 🎬 VIDEOS DISPONIBLES
+
+1. ✅ **Introducción al sistema**  
+   📺 https://www.youtube.com/watch?v=dEtIk_XkIEA
+
+2. ⚙️ **Configuración inicial**  
+   📺 https://www.youtube.com/watch?v=VIDEO_ID_2
+
+(Se agregarán más vídeos en futuras versiones)
+
+---
+
+## ⏱️ CRON JOBS
+
+Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operación fluida. Estos procesos se ejecutan periódicamente mediante **CRON JOBS**.
+
+### 🔁 Funciones automáticas incluidas:
+
+- Corte automático de servicios vencidos
+- Reactivación de clientes que realizaron pagos
+- Envío de notificaciones a través de WhatsApp API
+- Generación de respaldos automáticos
+
+### 🌐 URL del CRON principal:
+
+https://tudominio.com/cron/ejecutar
+
+> Recomendación: Programa este cron para ejecutarse cada **15 minutos** usando `crontab`.
+
+Ejemplo de línea CRON:
+*/15 * * * * curl -s https://tudominio.com/cron/ejecutar > /dev/null 2>&1
+
 
 ---
 
@@ -71,6 +108,5 @@ Haz el upgrade a **Chasap Pro** hoy mismo y experimenta todo el poder de nuestra
 - ✉️ **Correo:** walterrengifo08@gmail.com  
 
 **¡Ventas, soporte o mejoras!**
- 
 
 
