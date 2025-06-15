@@ -1,6 +1,6 @@
 ## 🎉 ¡Bienvenido a **CONECTATE-YA WISP SOFTWARE 1.5**! 🚀
 
-¡Gracias por confiar en **APP WhatsApp**!  
+¡Gracias por confiar en **CONECTATE-YA WISP SOFTWARE**!  
 Estás utilizando la **versión Base 1.2** de nuestra plataforma. 🎯
 
 Con **APP WhatsApp** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
