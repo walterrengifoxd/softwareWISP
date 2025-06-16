@@ -70,7 +70,7 @@ Ejemplo de línea CRON:
 ### 📌 Últimos cambios
 
 | Fecha       | Versión | Descripción                                                                 |
-|-------------|---------|-----------------------------------------------------------------------------|
+
 | 2025-06-01  | 1.5.0   | Integración de videos tutoriales desde YouTube                             |
 | 2025-05-18  | 1.4.2   | Optimización del sistema de notificaciones por WhatsApp                    |
 | 2025-05-01  | 1.4.0   | Añadido módulo de mapa de red para visualizar cajas NAP y MUFAS            |
