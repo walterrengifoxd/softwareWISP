@@ -1,7 +1,7 @@
 ## 🎉 ¡Bienvenido a **CONECTATE-YA WISP SOFTWARE 1.5**! 🚀
 
 ¡Gracias por confiar en **CONECTATE-YA WISP SOFTWARE**!  
-Estás utilizando la **versión Base 1.2** de nuestra plataforma. 🎯
+Estás utilizando la **versión 1.5** de nuestra plataforma. 🎯
 
 Con **CONECTATE-YA WISP SOFTWARE** podrás disfrutar de todas las funciones esenciales para organizar, gestionar y hacer crecer tu día a día.  
 Todo lo que necesitas para empezar, en un solo lugar. 🔥
@@ -76,20 +76,6 @@ Ejemplo de línea CRON:
 | 2025-05-01  | 1.4.0   | Añadido módulo de mapa de red para visualizar cajas NAP y MUFAS            |
 | 2025-04-15  | 1.3.0   | Implementado el control de Simple Queue con conexión directa a MikroTik    |
 | 2025-04-01  | 1.2.0   | Primera versión estable con integración básica PPPoE y gestión de clientes |
-
----
-
-## 🚀 ¿Quieres llevar tu productividad al siguiente nivel?
-
-Actualiza a **APP WhatsApp Pro** 🏆 y desbloquea ventajas exclusivas como:
-
-- ✨ **Módulos avanzados de gestión** para potenciar tus resultados
-- 📱 **Conecta tus canales de atención** (Facebook, Instagram y más) en un solo panel
-- 🛠️ **Actualizaciones anticipadas**: accede primero a nuevas funciones y mejoras
-- 🧩 **Solución de bugs prioritaria**: atención técnica preferente para tu tranquilidad
-
-**¡No pongas límites a tu crecimiento!**  
-Haz el upgrade a **Chasap Pro** hoy mismo y experimenta todo el poder de nuestra plataforma. 🌟
 
 ---
 
