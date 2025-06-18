@@ -51,16 +51,8 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 - Envío de deuda a través de WhatsApp API /  wget -q "https://midominio.com/tasks/invoice_send_whatsapp"
 - Envío de deuda por dia de pago a través de WhatsApp API /  wget -q "https://midominio.com/tasks/invoice_send_payday_whatsapp"
 - Recordatorio de deudas de la empresa por WhatsApp API  /   wget -q "https://midominio.com/tasks/deuda_send_whatsapp"
-
-### 🌐 URL del CRON principal:
-
-https://tudominio.com/cron/ejecutar
-
-> Recomendación: Programa este cron para ejecutarse cada **15 minutos** usando `crontab`.
-
-Ejemplo de línea CRON:
-*/15 * * * * curl -s https://tudominio.com/cron/ejecutar > /dev/null 2>&1
-
+- Suspension de clientes  /   wget -q "https://midominio.com/tasks/client_deuda_suspend"
+- recordatorio despues de 10 dias de suspension   /   wget -q "https://midominio.com/tasks/client_deuda_suspend_ten_day"
 
 ---
 
