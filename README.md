@@ -47,6 +47,7 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 ### 🔁 Funciones automáticas incluidas:
 
 - Corte automático de servicios vencidos
+  https://tudominio.com/cron/ejecutar
 - Reactivación de clientes que realizaron pagos
 - Envío de notificaciones a través de WhatsApp API
 - Generación de respaldos automáticos
