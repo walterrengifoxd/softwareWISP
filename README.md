@@ -46,10 +46,11 @@ Tu sistema necesita ejecutar ciertas tareas automáticas para mantener la operac
 
 ### 🔁 Funciones automáticas incluidas:
 
-- Corte automático de servicios vencidos  /  https://tudominio.com/cron/ejecutar
-- Reactivación de clientes que realizaron pagos
-- Envío de notificaciones a través de WhatsApp API
-- Generación de respaldos automáticos
+- Crear facturas de los clientes ACTIVOS  /  wget -q "https://midominio.com/tasks/invoice_receipts"
+- Enviar deuda por correo electronico masivamente  /  wget -q "https://midominio.com/tasks/invoice_send_email"
+- Envío de deuda a través de WhatsApp API /  wget -q "https://midominio.com/tasks/invoice_send_whatsapp"
+- Envío de deuda por dia de pago a través de WhatsApp API /  wget -q "https://midominio.com/tasks/invoice_send_payday_whatsapp"
+- Recordatorio de deudas de la empresa por WhatsApp API  /   wget -q "https://midominio.com/tasks/deuda_send_whatsapp"
 
 ### 🌐 URL del CRON principal:
 
